@@ -9,6 +9,7 @@ function App() {
   return(
     <>
      {/* <Register/> */}
+     {/* <Login/> */}
      <Home/>
      {/* <Profle/> */}
      {/* <Data /> */}
