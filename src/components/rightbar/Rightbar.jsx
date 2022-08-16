@@ -13,7 +13,7 @@ export default function Rightbar({profle}) {
                   <b>Alice Nayituriki </b> and <b> 6 other friends </b> have a birthday today.
               </span>
           </div>
-          <img  className="rightbarAd" src="assets/img/ad.jpg" alt="Amamaza" />
+          <img  className="rightbarAd" src="assets/img/ad.jpg" alt="" />
            <h4 className="rightbarTitle">Online Friends</h4>
            <ul className="rightbarFriendList">
            {Users.map((u) => (
